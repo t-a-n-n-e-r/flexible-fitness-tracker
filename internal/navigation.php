@@ -11,6 +11,7 @@
                <li><a href="add_workout.php">Add workout</a></li>
                <li><a href="exercises.php">Manage exercises</a></li>
                <li><a href="profile.php">Profile</a></li>
+               <li><a href="help.php">Help</a></li>
                <li><a href="logout.php">Log out</a></li>
             <?php else : ?>
                <li><a href="signup.php">Sign up</a></li>
